@@ -1,0 +1,46 @@
+.valid {
+    background-color: green;
+    border-radius: 50%;
+    width: 1rem;
+    height: 1rem;
+    transform: translate(0 , -50%);
+}
+.notValid {
+    background-color: red;
+    border-radius: 50%;
+    width: 1rem;
+    height: 1rem;
+    transform: translate(0 , -50%);
+}
+.card {
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-radius: 13px;
+    padding: 15px;
+    justify-content: space-between;
+    height: 30rem;
+}
+
+.cardTitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20%;
+}
+
+.cardBody {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+    object-fit: cover;
+}
+
+.title {
+    display: flex;
+    font-size: 1.7rem;
+    font-weight: bolder;
+}

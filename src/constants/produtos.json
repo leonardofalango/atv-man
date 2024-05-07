@@ -2,6 +2,8 @@
   {
     "id": 1,
     "name": "Perfume",
+    "categoria" : "perfume",
+    "status" : false,
     "desc": "Miguel Rousseouf",
     "value": "100.00",
     "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg"
@@ -9,8 +11,37 @@
   {
     "id": 2,
     "name": "Colar",
+    "categoria" : "joia",
+    "status" : true,
     "desc": "Jand Karno em perolas",
     "value": "2200.00",
     "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg"
+  },
+  {
+    "id" : 3,
+    "name" : "Anel de Noivado",
+    "categoria" : "joia",
+    "status" : true,
+    "desc" : "Solitário Anel de Noivado Princess Lux - Ouro 18k - PPD Joias - Loja de Joias de Ouro 18k e Mais",
+    "value" : "3135.02",
+    "image" : "https://cdn.awsli.com.br/930/930680/produto/107153912/5a54747cb2.jpg"
+  },
+  {
+    "id" : 4,
+    "name" : "212 VIP Black NYC",
+    "categoria" : "perfume",
+    "status" : true,
+    "desc" : "212 Vip Black Eau de Parfum Masculino 100ml - Carolina Herrera - AnMY Perfumes Importados",
+    "value" : "580.00",
+    "image" : "https://m.media-amazon.com/images/I/51ehJ4SsM6L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id" : 5,
+    "name" : "Ingresso do Bruno Mars",
+    "categoria" : "ingresso",
+    "status" : false,
+    "desc" : "Bruno Mars anuncia quatro shows no Brasil; veja datas das vendas de ingressos | Pop | gshow",
+    "value" : "320.00",
+    "image" : "https://s2-gshow.glbimg.com/C91NXKqlCVH4sZdWj52qC8r4hgI=/0x0:808x1010/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/m/q/CVm7S1SmAVS7BXXlepug/bruno-mars-show-brasil.png"
   }
 ]
